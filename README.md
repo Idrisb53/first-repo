@@ -1,3 +1,4 @@
 # first-repo
 This is my first  Git Repository.
-Author - Idris Talodawala.
+Author - Idris (cyber)git 
+
