@@ -1,4 +1,2 @@
-# first-repo
-This is my first  Git Repository.
-Author - Idris (cyber)
+# This is my first  Git Repository. Author - Idris (cyber)st
 
