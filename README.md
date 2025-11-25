@@ -1,2 +1,2 @@
-# This is my first  Git Repository. Author - Idris (cyber)st
+# This is my first  Git Repository. Author - Idris (cyber)
 
