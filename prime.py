@@ -14,3 +14,4 @@ if __name__ == "__main__":
             print(f"{number} is a prime number.")
         else:
             print(f"{number} is not a prime number.")
+            
